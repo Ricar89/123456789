@@ -1,0 +1,133 @@
+.mainTitle {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 694;
+    font-style: normal;
+    border: 10px solid #2f4f4f;
+    background-color: #2f4f4f;
+    text-align: center;
+}
+
+.subTitle {
+    color: black;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 694;
+    font-style: normal;
+    text-align: center;
+}
+
+.description {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #040;
+}
+
+.controlTitle {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 694;
+    font-style: normal;
+    border: 10px solid #2f4f4f;
+    background-color: #2f4f4f;
+    text-align: center;
+}
+
+.forward {
+    top: 350px;
+    left: 100px;
+    position: absolute;
+    z-index: 2;
+    transition-duration: 0.4s;
+    background-color: white;
+    border-color: black;
+    border: 2px solid #04AA6D;
+    block-size: 80px;
+    width: 80px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 694;
+    font-style: normal;
+    text-align: center;
+
+}
+  
+.forward:hover {
+    background-color: #04AA6D; /* Green */
+    color: white;
+}
+
+.left {
+    top: 430px;
+    left: 20px;
+    position: absolute;
+    z-index: 2;
+    transition-duration: 0.4s;
+    background-color: white;
+    border-color: black;
+    border: 2px solid #04AA6D;
+    block-size: 80px;
+    width: 80px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 694;
+    font-style: normal;
+    text-align: center;
+
+}
+  
+.left:hover {
+    background-color: #04AA6D; /* Green */
+    color: white;
+}
+
+.backward {
+    top: 430px;
+    left: 100px;
+    position: absolute;
+    z-index: 2;
+    transition-duration: 0.4s;
+    background-color: white;
+    border-color: black;
+    border: 2px solid #04AA6D;
+    block-size: 80px;
+    width: 80px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 694;
+    font-style: normal;
+    text-align: center;
+
+}
+  
+.backward:hover {
+    background-color: #04AA6D; /* Green */
+    color: white;
+}
+
+.right {
+    top: 430px;
+    left: 180px;
+    position: absolute;
+    z-index: 2;
+    transition-duration: 0.4s;
+    background-color: white;
+    border-color: black;
+    border: 2px solid #04AA6D;
+    block-size: 80px;
+    width: 80px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 694;
+    font-style: normal;
+    text-align: center;
+
+}
+  
+.right:hover {
+    background-color: #04AA6D; /* Green */
+    color: white;
+}
